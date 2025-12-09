@@ -1,2 +1,2 @@
-# Sorting Algorithms for Beginners
+# Sorting Algorithms for Integer Arrays
 Am bagat 3 algoritmi de sortare
